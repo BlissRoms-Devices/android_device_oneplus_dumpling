@@ -42,3 +42,7 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRIVATE_BUILD_DESC="OnePlus5T-user 8.1.0 OPM1.171019.011 06131716 release-keys"
 
 BUILD_FINGERPRINT := OnePlus/OnePlus5T/OnePlus5T:8.1.0/OPM1.171019.011/06131716:user/release-keys
+
+#Apps
+PRODUCT_PACKAGES += \
+    Gallery2  
