@@ -7,12 +7,6 @@
   },
   {
     "remote": "github",
-    "repository": "BlissRoms-Devices/android_system_qcom",
-    "target_path": "system/qcom",
-    "revision": "p9.0"
-  },
-  {
-    "remote": "github",
     "repository": "B14CKB1RD-Kernel/B14CKB1RD_Kernel_5-T",
     "target_path": "kernel/oneplus/msm8998",
     "revision": "p9.0"
