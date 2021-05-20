@@ -21,12 +21,12 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 # Inherit from dumpling device
 $(call inherit-product, device/oneplus/dumpling/device.mk)
 
-# Inherit some common arrow stuff.
-$(call inherit-product, vendor/arrow/config/common.mk)
+# Inherit some common bliss stuff.
+$(call inherit-product, vendor/bliss/config/common.mk)
 
-DEVICE_MAINTAINER := Bauuuuu
+DEVICE_MAINTAINER := "BitO BSessiOn"
 
-PRODUCT_NAME := arrow_dumpling
+PRODUCT_NAME := bliss_dumpling
 PRODUCT_DEVICE := dumpling
 PRODUCT_MANUFACTURER := OnePlus
 PRODUCT_BRAND := OnePlus

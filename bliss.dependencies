@@ -1,0 +1,20 @@
+[
+  {
+    "remote": "github",
+    "repository": "BlissRoms-Devices/android_device_oneplus_msm8998-common",
+    "target_path": "device/oneplus/msm8998-common",
+    "branch": "r"
+  },
+  {
+    "remote": "github",
+    "repository": "ederekun/lazy_kernel_op5-t",
+    "target_path": "kernel/oneplus/msm8998",
+    "branch": "custom-develop"
+  },
+  {
+    "remote": "gitlab",
+    "repository": "arrowos-project/android_vendor_oneplus_msm8998",
+    "target_path": "vendor/oneplus",
+    "branch": "arrow-11.0"
+  }
+]

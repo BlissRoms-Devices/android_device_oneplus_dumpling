@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/arrow_dumpling.mk
+    $(LOCAL_DIR)/bliss_dumpling.mk
 
 COMMON_LUNCH_CHOICES := \
-    arrow_dumpling-user \
-    arrow_dumpling-userdebug \
-    arrow_dumpling-eng
+    bliss_dumpling-user \
+    bliss_dumpling-userdebug \
+    bliss_dumpling-eng
