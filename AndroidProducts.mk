@@ -1,13 +1,13 @@
 #
-# Copyright (C) 2017-2019 The LineageOS Open Source Project
+# Copyright (C) 2017-2019 The BlissRoms Open Source Project
 #
 # SPDX-License-Identifier: Apache-2.0
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_dumpling.mk
+    $(LOCAL_DIR)/bliss_dumpling.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_dumpling-user \
-    lineage_dumpling-userdebug \
-    lineage_dumpling-eng
+    bliss_dumpling-user \
+    bliss_dumpling-userdebug \
+    bliss_dumpling-eng
